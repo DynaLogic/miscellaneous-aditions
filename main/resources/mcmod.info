@@ -1,7 +1,7 @@
 [
 {
   "modid": "Misc_Additions",
-  "name": "Mis",
+  "name": "miscellaneous additions",
   "description": "This Mod adds things that you wish vanilla Minecraft had...",
   "version": "${version}",
   "mcversion": "${mcversion}",

@@ -18,6 +18,10 @@ public class Extra {
         GameRegistry.registerItem(item , MODID + "_" + item.getUnlocalizedName().substring(5));
     }
 
+    public static void regItems(){
+
+    }
+
     public static void Recipies(){
 
     }
